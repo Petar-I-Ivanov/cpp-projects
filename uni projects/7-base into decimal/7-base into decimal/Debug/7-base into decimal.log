@@ -1,0 +1,4 @@
+﻿  7-base into decimal.cpp
+C:\Users\pe6o0\source\repos\C++ uni projects\7-base into decimal\7-base into decimal\7-base into decimal.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pe6o0\source\repos\C++ uni projects\7-base into decimal\7-base into decimal\7-base into decimal.cpp(27,94): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  7-base into decimal.vcxproj -> C:\Users\pe6o0\source\repos\C++ uni projects\7-base into decimal\Debug\7-base into decimal.exe
